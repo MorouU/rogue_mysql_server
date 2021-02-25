@@ -1,2 +1,2 @@
 # rogue_mysql_server
-A fake MYSQL server can read multiple client files when the client connects.(support python2 and python3).
+ - Create a fake MYSQL evil server that can customize the port and read multiple files continuously.
